@@ -8,4 +8,6 @@ Avtomatski zalivalnik, ki meri temperaturo in vlago
 |  Ideja       |            | 
 |  Tinkercad       |            |         
 |  Simolacije    |             |         
-|   ...       |            |    
+|  Prototip       |            |    
+|  Dokumentacija       |            |   
+|  Predstavitev       |            |    
