@@ -19,3 +19,7 @@ Uporabnik bo lahko tudi preko aplikacije uporabljal zalivalnik.
 |  Prototip       |            |    
 |  Dokumentacija       |            |   
 |  Predstavitev       |            |    
+
+## Ideja
+
+Dodati ogrevanje za zalivnik, npr. 100W žarnico oz majhno peč in ventilator. Temperaturo bomo pa merili z NTC uporom oz. senzorjem za temperaturo.
