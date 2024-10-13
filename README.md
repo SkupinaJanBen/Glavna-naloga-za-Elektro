@@ -24,4 +24,5 @@ Uporabnik bo lahko tudi preko aplikacije uporabljal zalivalnik.
 
 Dodati ogrevanje za zalivnik, npr. 100W žarnico oz majhno peč in ventilator. Temperaturo bomo pa merili z senzorjem za temperaturo.
 
-Narediti več modulov z različnimi funkciami.
+Narediti več modulov z različnimi funkciami. Npr. glavni modul s katerim vzpostavimo komunikacijo med telefonom in sistemom, modul za zalivanje,
+modul za ogrevanje, ...
