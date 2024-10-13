@@ -23,3 +23,5 @@ Uporabnik bo lahko tudi preko aplikacije uporabljal zalivalnik.
 ## Ideja
 
 Dodati ogrevanje za zalivnik, npr. 100W žarnico oz majhno peč in ventilator. Temperaturo bomo pa merili z senzorjem za temperaturo.
+
+Narediti več modulov z različnimi funkciami.
