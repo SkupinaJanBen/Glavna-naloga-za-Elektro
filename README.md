@@ -28,4 +28,4 @@ Narediti več modulov z različnimi funkciami. Npr. glavni modul s katerim vzpos
 modul za ogrevanje, ...
 
 #Testna Koda
-Koda se nahaja v mapi __vsebina__ ali pa pritisnite na vezavo [tukaj]().
+Koda se nahaja v mapi __vsebina__ ali pa pritisnite na vezavo [tukaj](https://github.com/SkupinaJanBen/Glavna-naloga-za-Elektro/blob/main/Testna%20Koda).
