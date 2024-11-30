@@ -26,3 +26,6 @@ Dodati ogrevanje za zalivnik, npr. 100W žarnico oz majhno peč in ventilator. T
 
 Narediti več modulov z različnimi funkciami. Npr. glavni modul s katerim vzpostavimo komunikacijo med telefonom in sistemom, modul za zalivanje,
 modul za ogrevanje, ...
+
+#Testna Koda
+Koda se nahaja v mapi __vsebina__ ali pa pritisnite na vezavo [tukaj]().
